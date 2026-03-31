@@ -1,4 +1,4 @@
-<h1 align="center">🤖 MYRA AI Desktop Assistant</h1>
+<h1 align="center">🤖 ARIA AI Desktop Assistant</h1>
 
 <p align="center">
   Control Your PC Like JARVIS 🔥
